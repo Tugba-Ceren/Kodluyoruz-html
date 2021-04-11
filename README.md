@@ -1,2 +1,2 @@
 # myfirstwebpage
-1st assignment of HTML
+all assignment of HTML
